@@ -1,0 +1,16 @@
+__pycache__
+tmp
+approximator
+Datasets
+log
+randommem
+result_exp3
+Result_131122
+Result_261022
+REWARD_SYS_TESTE
+Takahashimodel
+tkhmodel
+*.bck
+*.bck2
+*.svg
+*.txt
